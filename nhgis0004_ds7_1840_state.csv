@@ -1,0 +1,32 @@
+GISJOIN,YEAR,STATE,STATEA,COUNTYA,AREANAME,ACU001,ACU002,ACU003,ACU004
+GIS Join Match Code,Data File Year,State Name,State Code,County Code,Area name,Free >> Male,Free >> Female,Slave >> Male,Slave >> Female
+"G010","1840","Alabama","010",,"Alabama",1030,1009,127360,126172
+"G050","1840","Arkansas","050",,"Arkansas",248,217,10119,9816
+"G090","1840","Connecticut","090",,"Connecticut",3891,4214,8,9
+"G100","1840","Delaware","100",,"Delaware",8626,8293,1371,1234
+"G110","1840","District Of Columbia","110",,"District of Columbia",3453,4908,2058,2636
+"G125","1840","Florida Territory","125",,"Florida Territory",398,419,13038,12679
+"G130","1840","Georgia","130",,"Georgia",1374,1379,139335,141609
+"G170","1840","Illinois","170",,"Illinois",1876,1722,168,163
+"G180","1840","Indiana","180",,"Indiana",3731,3434,1,2
+"G195","1840","Iowa Territory","195",,"Iowa Territory",93,79,6,10
+"G210","1840","Kentucky","210",,"Kentucky",3761,3556,91004,91254
+"G220","1840","Louisiana","220",,"Louisianna",11526,13976,86529,81923
+"G230","1840","Maine","230",,"Maine",720,635,0,0
+"G240","1840","Maryland","240",,"Maryland",29187,32891,46068,43669
+"G250","1840","Massachusetts","250",,"Massachusetts",4654,4015,0,0
+"G260","1840","Michigan","260",,"Michigan",393,314,0,0
+"G280","1840","Mississippi","280",,"Mississippi",715,651,98003,97208
+"G290","1840","Missouri","290",,"Missouri",883,691,28742,29498
+"G330","1840","New Hampshire","330",,"New Hampshire",248,289,0,1
+"G340","1840","New Jersey","340",,"New Jersey",10780,10264,303,371
+"G360","1840","New York","360",,"New York",23809,26218,0,4
+"G370","1840","North Carolina","370",,"North Carolina",11227,11505,123546,122271
+"G390","1840","Ohio","390",,"Ohio",8740,8602,2,1
+"G420","1840","Pennsylvania","420",,"Pennsylvania",22752,25102,35,29
+"G440","1840","Rhode Island","440",,"Rhode Island",1413,1825,1,4
+"G450","1840","South Carolina","450",,"South Carolina",3864,4412,158678,168360
+"G470","1840","Tennessee","470",,"Tennessee",2796,2728,91477,91582
+"G500","1840","Vermont","500",,"Vermont",364,366,0,0
+"G510","1840","Virginia","510",,"Virginia",23828,26024,228661,220426
+"G555","1840","Wisconsin Territory","555",,"Wisconsin Territory",101,84,4,7
